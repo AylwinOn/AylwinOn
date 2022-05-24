@@ -1,4 +1,4 @@
-## Hi, I'm Pierre, a passionate last-year master student **Artificial Intelligence** at Maastricht University! :cyclone:
+### Hi, I'm Pierre, a passionate last-year master student **Artificial Intelligence** at Maastricht University! :cyclone:
 Please have a look at the several projects I conducted:
 - Intelligent Game Cannon
 - eXplainable AI
