@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Pierre, a passionate last-year master student Artificial Intelligence at Maastricht University! Please have a look at the several projects I conducted
 
 <!--
 **AylwinOn/AylwinOn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
