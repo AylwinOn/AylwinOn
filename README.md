@@ -1,9 +1,8 @@
-### Hi, I'm Pierre, a passionate last-year master student Artificial Intelligence at Maastricht University!
+## Hi, I'm Pierre, a passionate last-year master student **Artificial Intelligence** at Maastricht University! :cyclone:
 Please have a look at the several projects I conducted:
-- Java
-- Python
-- 
--
+- Intelligent Game Cannon
+- eXplainable AI
+- Anomaly Detection for the Harbour of Rotterdam *(private repository)*
 
 <!--
 **AylwinOn/AylwinOn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
