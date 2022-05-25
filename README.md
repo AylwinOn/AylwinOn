@@ -5,6 +5,7 @@
 Please have a look at the several projects I conducted:
 - Intelligent Boardgame Cannon
 - Image Segmentation Meanshift
+- Neural Network and Convolutional AutoEncoder
 - Character Text Prediction
 - Membership Inference
 - eXplainable AI
