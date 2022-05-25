@@ -4,6 +4,7 @@
 
 Please have a look at the several projects I conducted:
 - Intelligent Boardgame Cannon
+- Image Segmentation Meanshift
 - Character Text Prediction
 - Membership Inference
 - eXplainable AI
