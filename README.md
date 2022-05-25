@@ -1,5 +1,5 @@
 ### Hi, I'm Pierre, a passionate last-year master student **Artificial Intelligence** at Maastricht University! :cyclone:
-## Currently, on a study abroad at Université Paris Dauphine -PSL :france:
+## Currently, on a study abroad at Université Paris Dauphine -PSL :France:
 
 Please have a look at the several projects I conducted:
 - Intelligent Game Cannon
