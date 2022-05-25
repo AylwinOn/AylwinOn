@@ -10,5 +10,6 @@ Please have a look at the several projects I conducted:
 - Neural Network
 - Convolutional Autoencoder
 - Membership Inference
+- Trading Bot
 - eXplainable AI *(private repository)*
 - Anomaly Detection for the Harbour of Rotterdam *(private repository)*
