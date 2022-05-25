@@ -1,4 +1,4 @@
-## I'm Pierre, a passionate last-year master student **Artificial Intelligence** at Maastricht University! :cyclone:
+### Hi, I'm Pierre, a passionate last-year master student **Artificial Intelligence** at Maastricht University! :cyclone:
 ### Currently, on a study abroad at Université Paris Dauphine - PSL :milky_way:
 ### Next up, presentation at the WCCI 2022 in Padua :globe_with_meridians:
 
