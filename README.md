@@ -8,6 +8,7 @@ Please have a look at the several projects I conducted:
 - Membership Inference
 - Convolutional Autoencoder
 - Convolutional Neural Network
+- Generative Adversarial Network
 - Character Text Prediction
 - Image Segmentation Meanshift
 - Neural Network
