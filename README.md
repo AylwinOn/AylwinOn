@@ -1,4 +1,4 @@
-### Hi, I'm Pierre, a master graduate of **Artificial Intelligence** and **Business Engineer** <!-- at Maastricht University! --> :cyclone:
+### Hi, I'm Pierre, a master graduate of **Artificial Intelligence** and **Business Engineer** <!-- at Maastricht University! -->
 
 ### <!-- Currently on a study abroad at Université Paris Dauphine - PSL :milky_way: <br> Next up, presentation at the WCCI 2022 conference in Padua :globe_with_meridians:-->
 
