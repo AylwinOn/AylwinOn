@@ -1,7 +1,5 @@
 ### <!-- Hi, I'm Pierre, a Business Engineer and master graduate of **Artificial Intelligence** <!-- at Maastricht University! -->
-
 ### <!-- Currently on a study abroad at Université Paris Dauphine - PSL :milky_way: <br> Next up, presentation at the WCCI 2022 conference in Padua :globe_with_meridians:-->
-
 Please have a look at the several projects I conducted:
 - Autonomous Robotic Systems
 - Intelligent Boardgame Cannon
